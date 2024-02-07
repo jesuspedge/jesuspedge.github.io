@@ -3,10 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "17e2d0db37ec007c82a1afb1e2e3444c",
-"assets/AssetManifest.bin.json": "5c98e38d9bc6811ddae421c83c05a465",
-"assets/AssetManifest.json": "75698f070ac9254ea8db6393f2ac6596",
+const RESOURCES = {"assets/AssetManifest.bin": "6f54256bd44672cd9ec327a8e1d4a8d2",
+"assets/AssetManifest.bin.json": "5fab721df3b2f32051c4251f8c9bead7",
+"assets/AssetManifest.json": "ceef68f711133a98626f827325279eac",
 "assets/assets/images/01codecheck.png": "0914b9f75d015870113131567826b5d4",
+"assets/assets/images/02coffemaker/coconut.png": "221a9b30925811a301fc3f053afe5ab1",
+"assets/assets/images/02coffemaker/cow.png": "2dd16122b2ea1e3de43ea9b9a05fd422",
+"assets/assets/images/02coffemaker/rice.png": "8302ab8f4cd20bccabd859f5c0157a6f",
+"assets/assets/images/02coffemaker/soy.png": "7337f6b93b47839c32722efb6eaa7c72",
 "assets/assets/images/02coffemaker.png": "655a28e309ef83f19a6ee4076fbd7a24",
 "assets/assets/images/background.jpg": "e7824f3a272ea0132e7abbcae6497a50",
 "assets/assets/images/github_logo.png": "d276d54d1d11f2fb2ea5edee28fc7950",
@@ -28,9 +32,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "17e2d0db37ec007c82a1afb1e2e3444c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1301b287d6055e8a5aa56f094559878d",
-"/": "1301b287d6055e8a5aa56f094559878d",
-"main.dart.js": "9130c70d8761107032bce4f331cabcae",
+"index.html": "41cadf5b6c6447d0dd17acddaf51df57",
+"/": "41cadf5b6c6447d0dd17acddaf51df57",
+"main.dart.js": "4d923cb31eabe4ad00b0d03de52cd7da",
 "manifest.json": "97fe636cf2dfc65155d1a0c85b3e7ad8",
 "version.json": "02a6f7ebd28277cea3ab88ec2af45c2a"};
 // The application shell files that are downloaded before a service worker can
